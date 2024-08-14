@@ -16,7 +16,7 @@ h2{
     font-weight: 500;
 }
 body{
-    background: url("/images/js.png");
+    background: url("../images/js.png");
     background-repeat: no-repeat;
     background-size: contain;
 }
